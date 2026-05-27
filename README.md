@@ -13,3 +13,4 @@ Every space agency with its logo is created as a button and you can click on the
 to access the desired space-agency-website without losing time to type the url.
 The logos are shown transparently and styled with CSS.
 Licensed under the EARTH license (Version 1.0)
+see video under the youtube user : Kais el Kara, video name:"THE OATH OF UNITED-PLANET-EARTH"
